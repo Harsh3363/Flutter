@@ -1,4 +1,4 @@
-# hey_harsh
+# Flutter Project
 
 A new Flutter project.
 
